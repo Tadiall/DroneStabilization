@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Résultats générés (régénérables via python -m sim.simulate)
+results/*.png
+
+# Système
+.DS_Store
+Thumbs.db
